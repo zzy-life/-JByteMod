@@ -1,0 +1,17 @@
+org\jetbrains\java\decompiler\util\FastSparseSetFactory$1.class
+me\grax\jbytemod\ui\dialogue\ClassDialogue$1.class
+org\jetbrains\java\decompiler\util\FastSetFactory$1.class
+me\grax\jbytemod\ui\DecompilerTab$3.class
+me\grax\jbytemod\res\Option$1.class
+org\jetbrains\java\decompiler\modules\decompiler\stats\Statement$1.class
+org\jetbrains\java\decompiler\modules\decompiler\sforms\FlattenStatementsHelper$1.class
+org\jetbrains\java\decompiler\main\ClassWriter$1.class
+org\jetbrains\java\decompiler\main\ClassesProcessor$1.class
+org\jetbrains\java\decompiler\modules\decompiler\FinallyProcessor$1.class
+org\jetbrains\java\decompiler\util\FastFixedSetFactory$1.class
+org\jetbrains\java\decompiler\struct\attr\StructInnerClassesAttribute$1.class
+me\grax\jbytemod\ui\MyMenuBar$29.class
+org\jetbrains\java\decompiler\main\rels\NestedMemberAccess$1.class
+me\grax\jbytemod\analysis\decompiler\code\ast\expressions\ValueExpression$1.class
+org\jetbrains\java\decompiler\struct\match\MatchEngine$1.class
+org\jetbrains\java\decompiler\code\cfg\ControlFlowGraph$1.class
